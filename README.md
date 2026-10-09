@@ -27,7 +27,7 @@ Field-wise vocabulary library so beginners can prompt AI effectively. The produc
 ## 🛠️ Technical skills
 
 **Languages:** Python · C++ · TypeScript · JavaScript
-**AI / ML:** PyTorch · prompt engineering · NLP · agentic AI workflows — *see [PromptSmith], [Data Structures]*
+**AI / ML:** PyTorch · prompt engineering · NLP · agentic AI workflows — *see [PromptSmith](https://github.com/realhassanabbasi/promptsmith), [Data Structures](https://github.com/realhassanabbasi/Data_structures)*
 **Web:** React · Next.js · Tailwind CSS · HTML/CSS · Cloudflare — *see [Cortvex Digital](https://github.com/realhassanabbasi/cortvex-digital-core), [Cortvex Web](https://github.com/realhassanabbasi/Cortvex-web-HassanAbbasi)*
 **Tools:** Git · GitHub Actions basics · ffmpeg/media tooling
 
