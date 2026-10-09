@@ -1,48 +1,46 @@
 # Hi, I'm Hassan Abbasi 👋
 
-**I build AI-powered products with excellent user experiences** — intelligent systems, wrapped in interfaces people love to use.
+**AI Engineering · Full-Stack Development · Product Design**
 
-🧠 AI engineering (deep learning, NLP, agentic AI) × 🎨 graphic design — that combination *is* the specialty: smart **and** beautiful.
+I solve one problem repeatedly: **making AI actually useful** — through better prompting, smarter tools, and interfaces that don't get in the way.
 
 🎓 BS Artificial Intelligence & Data Science — Air University, Islamabad
 🚀 Currently building **Vocvia** — a field-wise vocabulary library that teaches beginners each field's key terms so they can prompt AI effectively
 
 ---
 
-## 🧠 How I work
+## 🎯 Featured projects
 
-| Strength | What it means in practice |
-|---|---|
-| **AI Engineering** | Deep learning (PyTorch), NLP, agentic AI workflows, prompt engineering — the brains |
-| **Web Development** | TypeScript, React / Next.js, Tailwind CSS, Cloudflare — the body |
-| **Graphic Design** | Brand identities, UI visuals, design systems — the face |
+### 🔧 PromptSmith — *shipping now*
+A CLI that scores any prompt 0–100, explains what's weak, and rewrites it into an engineered prompt. Includes an intent classifier written **from scratch** (no ML libraries). 15 passing tests, zero dependencies.
+`Python` · `ML from scratch` · `CLI design`
 
-One person, all three layers — so nothing gets lost between the model, the app, and the pixel.
+### 📚 Data Structures in C++ — [repo](https://github.com/realhassanabbasi/Data_structures)
+Stacks, queues, linked lists, trees, hash maps — implemented from scratch and documented for learners. **137 assertion-based checks, all passing.** A real bug (const-correctness in `QueueArray`) was caught by the suite and fixed.
+`C++` · `testing` · `documentation`
 
----
-
-## 🛠️ Tech stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+### 📖 Vocvia — *in active development*
+Field-wise vocabulary library so beginners can prompt AI effectively. The product thesis behind everything above.
 
 ---
 
-## 📌 Featured work
+## 🛠️ Technical skills
 
-- **Vocvia** *(in active development)* — field-wise vocabulary library for prompting AI better
-- **Data Structures in C++** — stacks, queues, linked lists, hash maps — documented for learners, with tests
-- 🆕 New flagship AI projects landing here regularly — watch this space
+**Languages:** Python · C++ · TypeScript · JavaScript
+**AI / ML:** PyTorch · prompt engineering · NLP · agentic AI workflows — *see [PromptSmith], [Data Structures]*
+**Web:** React · Next.js · Tailwind CSS · HTML/CSS · Cloudflare — *see [Cortvex Digital](https://github.com/realhassanabbasi/cortvex-digital-core), [Cortvex Web](https://github.com/realhassanabbasi/Cortvex-web-HassanAbbasi)*
+**Tools:** Git · GitHub Actions basics · ffmpeg/media tooling
+
+Every technology above is tied to a repository where I've actually used it — no badge without proof.
+
+---
+
+## 🔬 Engineering practice
+
+- **Testing:** every flagship ships with a passing test suite (137 checks on Data Structures, 15 on PromptSmith)
+- **Code quality:** `-Wall -Wextra` clean builds, const-correctness, no warnings tolerated
+- **Documentation:** full README on every repo — what, why, how to run, what I learned
+- **Honesty:** adapted work is credited, licenses kept, contributions stated plainly
 
 ---
 
