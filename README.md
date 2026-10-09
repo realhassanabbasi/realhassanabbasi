@@ -11,7 +11,7 @@ I solve one problem repeatedly: **making AI actually useful** — through better
 
 ## 🎯 Featured projects
 
-### 🔧 PromptSmith — *shipping now*
+### 🔧 [PromptSmith](https://github.com/realhassanabbasi/promptsmith)
 A CLI that scores any prompt 0–100, explains what's weak, and rewrites it into an engineered prompt. Includes an intent classifier written **from scratch** (no ML libraries). 15 passing tests, zero dependencies.
 `Python` · `ML from scratch` · `CLI design`
 
