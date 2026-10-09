@@ -1,1 +1,63 @@
-IyBIaSwgSSdtIEhhc3NhbiBBYmJhc2kg8J+RiwoKKipBSSBFbmdpbmVlcioqIMK3IGJ1aWxkaW5nIGludGVsbGlnZW50IHByb2R1Y3RzLCBhZ2VudGljIEFJIHN5c3RlbXMsIGFuZCBjbGVhbiB3ZWIgZXhwZXJpZW5jZXMuCkFsc28gYSAqKmdyYXBoaWMgZGVzaWduZXIqKiDigJQgSSBjYXJlIGhvdyB0aGluZ3MgbG9vayBhcyBtdWNoIGFzIGhvdyB0aGV5IHRoaW5rLgoK8J+OkyBCUyBBcnRpZmljaWFsIEludGVsbGlnZW5jZSAmIERhdGEgU2NpZW5jZSDigJQgQWlyIFVuaXZlcnNpdHksIElzbGFtYWJhZArwn5qAIEN1cnJlbnRseSBidWlsZGluZyAqKlZvY3ZpYSoqIOKAlCBhIGZpZWxkLXdpc2Ugdm9jYWJ1bGFyeSBsaWJyYXJ5IHRoYXQgdGVhY2hlcyBiZWdpbm5lcnMgZWFjaCBmaWVsZCdzIGtleSB0ZXJtcyBzbyB0aGV5IGNhbiBwcm9tcHQgQUkgZWZmZWN0aXZlbHkKCi0tLQoKIyMg8J+noCBXaGF0IEkgZG8KCnwgQXJlYSB8IEZvY3VzIHwKfC0tLXwtLS18CnwgKipBSSBFbmdpbmVlcmluZyoqIHwgRGVlcCBsZWFybmluZyAoUHlUb3JjaCksIE5MUCwgYWdlbnRpYyBBSSB3b3JrZmxvd3MsIHByb21wdCBlbmdpbmVlcmluZyB8CnwgKipXZWIgRGV2ZWxvcG1lbnQqKiB8IFR5cGVTY3JpcHQsIFJlYWN0IC8gTmV4dC5qcywgVGFpbHdpbmQgQ1NTLCBDbG91ZGZsYXJlIHwKfCAqKkdyYXBoaWMgRGVzaWduKiogfCBCcmFuZCBpZGVudGl0aWVzLCBVSSB2aXN1YWxzLCBkZXNpZ24gc3lzdGVtcyB8CgotLS0KCiMjIPCfm6DvuI8gVGVjaCBzdGFjawoKIVtQeXRob25dKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUHl0aG9uLTM3NzZBQj9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPXB5dGhvbiZsb2dvQ29sb3I9d2hpdGUpCiFbUHlUb3JjaF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9QeVRvcmNoLUVFNEMyQz9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPXB5dG9yY2gmbG9nb0NvbG9yPXdoaXRlKQohW1R5cGVTY3JpcHRdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvVHlwZVNjcmlwdC0zMTc4QzY/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz10eXBlc2NyaXB0JmxvZ29Db2xvcj13aGl0ZSkKIVtSZWFjdF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9SZWFjdC02MURBRkI/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1yZWFjdCZsb2dvQ29sb3I9YmxhY2spCiFbTmV4dC5qc10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9OZXh0LmpzLTAwMDAwMD9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPW5leHQuanMmbG9nb0NvbG9yPXdoaXRlKQohW1RhaWx3aW5kIENTU10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9UYWlsd2luZF9DU1MtMDZCNkQ0P3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289dGFpbHdpbmRjc3MmbG9nb0NvbG9yPXdoaXRlKQohW0MrK10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9DKystMDA1OTlDP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289Y3BsdXNwbHVzJmxvZ29Db2xvcj13aGl0ZSkKIVtIVE1MNV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9IVE1MNS1FMzRGMjY/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1odG1sNSZsb2dvQ29sb3I9d2hpdGUpCiFbQ1NTM10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9DU1MzLTE1NzJCNj9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPWNzczMmbG9nb0NvbG9yPXdoaXRlKQohW0phdmFTY3JpcHRdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvSmF2YVNjcmlwdC1GN0RGMUU/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1qYXZhc2NyaXB0JmxvZ29Db2xvcj1ibGFjaykKIVtHaXRdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvR2l0LUYwNTAzMj9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPWdpdCZsb2dvQ29sb3I9d2hpdGUpCiFbQ2xvdWRmbGFyZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9DbG91ZGZsYXJlLUYzODAyMD9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPWNsb3VkZmxhcmUmbG9nb0NvbG9yPXdoaXRlKQoKLS0tCgojIyDwn5OMIEZlYXR1cmVkIHdvcmsKCi0gKipWb2N2aWEqKiDigJQgZmllbGQtd2lzZSB2b2NhYnVsYXJ5IGxpYnJhcnkgZm9yIHByb21wdGluZyBBSSBiZXR0ZXIgKihpbiBhY3RpdmUgZGV2ZWxvcG1lbnQpKgotICoqQ29ydHZleCBEaWdpdGFsKiog4oCUIG1vZGVybiBkaWdpdGFsLWFnZW5jeSB3ZWJzaXRlIChSZWFjdCwgVGFuU3RhY2sgU3RhcnQsIHNoYWRjbi91aSwgQ2xvdWRmbGFyZSBXb3JrZXJzKQotICoqQ29ydHZleCBXZWIqKiDigJQgaGFuZC1idWlsdCBtdWx0aS1wYWdlIGFnZW5jeSBzaXRlIChIVE1MLCBDU1MsIEphdmFTY3JpcHQpCi0gKipEYXRhIFN0cnVjdHVyZXMgaW4gQysrKiog4oCUIHN0YWNrcywgcXVldWVzLCBsaW5rZWQgbGlzdHMsIHRyZWVzIOKAlCBteSAzcmQtc2VtZXN0ZXIgY291cnNld29yaywgZG9jdW1lbnRlZCBmb3IgbGVhcm5lcnMKCi0tLQoKIyMg8J+TiiBHaXRIdWIgc3RhdHMKCiFbSGFzc2FuJ3MgR2l0SHViIHN0YXRzXShodHRwczovL2dpdGh1Yi1yZWFkbWUtc3RhdHMudmVyY2VsLmFwcC9hcGk/dXNlcm5hbWU9cmVhbGhhc3NhbmFiYmFzaSZzaG93X2ljb25zPXRydWUmdGhlbWU9dG9reW9uaWdodCZoaWRlX2JvcmRlcj10cnVlKQohW1RvcCBsYW5ndWFnZXNdKGh0dHBzOi8vZ2l0aHViLXJlYWRtZS1zdGF0cy52ZXJjZWwuYXBwL2FwaS90b3AtbGFuZ3MvP3VzZXJuYW1lPXJlYWxoYXNzYW5hYmJhc2kmbGF5b3V0PWNvbXBhY3QmdGhlbWU9dG9reW9uaWdodCZoaWRlX2JvcmRlcj10cnVlKQoKLS0tCgojIyDwn5OrIENvbm5lY3Qgd2l0aCBtZQoKWyFbTGlua2VkSW5dKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTGlua2VkSW4tMEE2NkMyP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289bGlua2VkaW4mbG9nb0NvbG9yPXdoaXRlKV0oaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2hhc3NhbnhhYmJhc2kpClshW0luc3RhZ3JhbV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9JbnN0YWdyYW0tRTQ0MDVGP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289aW5zdGFncmFtJmxvZ29Db2xvcj13aGl0ZSldKGh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vcmVhbGhhc3NhbmFiYmFzaSkKWyFbQmVoYW5jZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9CZWhhbmNlLTE3NjlGRj9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPWJlaGFuY2UmbG9nb0NvbG9yPXdoaXRlKV0oaHR0cHM6Ly93d3cuYmVoYW5jZS5uZXQvaGFzc2FuYWJiYXNpNykKWyFbR2l0SHViXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0dpdEh1Yi0xODE3MTc/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1naXRodWImbG9nb0NvbG9yPXdoaXRlKV0oaHR0cHM6Ly9naXRodWIuY29tL3JlYWxoYXNzYW5hYmJhc2kpCgotLS0KCipDbGVhbiBjb2RlLCBzbWFydCBzeXN0ZW1zLCBiZWF1dGlmdWwgaW50ZXJmYWNlcyDigJQgdGhhdCdzIHRoZSBzdGFuZGFyZC4qCg==
+# Hi, I'm Hassan Abbasi 👋
+
+**AI Engineer** · building intelligent products, agentic AI systems, and clean web experiences.
+Also a **graphic designer** — I care how things look as much as how they think.
+
+🎓 BS Artificial Intelligence & Data Science — Air University, Islamabad
+🚀 Currently building **Vocvia** — a field-wise vocabulary library that teaches beginners each field's key terms so they can prompt AI effectively
+
+---
+
+## 🧠 What I do
+
+| Area | Focus |
+|---|---|
+| **AI Engineering** | Deep learning (PyTorch), NLP, agentic AI workflows, prompt engineering |
+| **Web Development** | TypeScript, React / Next.js, Tailwind CSS, Cloudflare |
+| **Graphic Design** | Brand identities, UI visuals, design systems |
+
+---
+
+## 🛠️ Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+---
+
+## 📌 Featured work
+
+- **Vocvia** — field-wise vocabulary library for prompting AI better *(in active development)*
+- **Cortvex Digital** — modern digital-agency website (React, TanStack Start, shadcn/ui, Cloudflare Workers)
+- **Cortvex Web** — hand-built multi-page agency site (HTML, CSS, JavaScript)
+- **Data Structures in C++** — stacks, queues, linked lists, trees — my 3rd-semester coursework, documented for learners
+
+---
+
+## 📊 GitHub stats
+
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=realhassanabbasi&show_icons=true&theme=tokyonight&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realhassanabbasi&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanxabbasi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/realhassanabbasi)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/hassanabbasi7)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/realhassanabbasi)
+
+---
+
+*Clean code, smart systems, beautiful interfaces — that's the standard.*
