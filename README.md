@@ -1,20 +1,23 @@
 # Hi, I'm Hassan Abbasi 👋
 
-**AI Engineer** · building intelligent products, agentic AI systems, and clean web experiences.
-Also a **graphic designer** — I care how things look as much as how they think.
+**I build AI-powered products with excellent user experiences** — intelligent systems, wrapped in interfaces people love to use.
+
+🧠 AI engineering (deep learning, NLP, agentic AI) × 🎨 graphic design — that combination *is* the specialty: smart **and** beautiful.
 
 🎓 BS Artificial Intelligence & Data Science — Air University, Islamabad
 🚀 Currently building **Vocvia** — a field-wise vocabulary library that teaches beginners each field's key terms so they can prompt AI effectively
 
 ---
 
-## 🧠 What I do
+## 🧠 How I work
 
-| Area | Focus |
+| Strength | What it means in practice |
 |---|---|
-| **AI Engineering** | Deep learning (PyTorch), NLP, agentic AI workflows, prompt engineering |
-| **Web Development** | TypeScript, React / Next.js, Tailwind CSS, Cloudflare |
-| **Graphic Design** | Brand identities, UI visuals, design systems |
+| **AI Engineering** | Deep learning (PyTorch), NLP, agentic AI workflows, prompt engineering — the brains |
+| **Web Development** | TypeScript, React / Next.js, Tailwind CSS, Cloudflare — the body |
+| **Graphic Design** | Brand identities, UI visuals, design systems — the face |
+
+One person, all three layers — so nothing gets lost between the model, the app, and the pixel.
 
 ---
 
@@ -37,10 +40,9 @@ Also a **graphic designer** — I care how things look as much as how they think
 
 ## 📌 Featured work
 
-- **Vocvia** — field-wise vocabulary library for prompting AI better *(in active development)*
-- **Cortvex Digital** — modern digital-agency website (React, TanStack Start, shadcn/ui, Cloudflare Workers)
-- **Cortvex Web** — hand-built multi-page agency site (HTML, CSS, JavaScript)
-- **Data Structures in C++** — stacks, queues, linked lists, trees — my 3rd-semester coursework, documented for learners
+- **Vocvia** *(in active development)* — field-wise vocabulary library for prompting AI better
+- **Data Structures in C++** — stacks, queues, linked lists, hash maps — documented for learners, with tests
+- 🆕 New flagship AI projects landing here regularly — watch this space
 
 ---
 
