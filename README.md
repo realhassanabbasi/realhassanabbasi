@@ -13,14 +13,17 @@ I solve one problem repeatedly: **making AI actually useful** — through better
 
 ### 🔧 [PromptSmith](https://github.com/realhassanabbasi/promptsmith)
 A CLI that scores any prompt 0–100, explains what's weak, and rewrites it into an engineered prompt. Includes an intent classifier written **from scratch** (no ML libraries). 15 passing tests, zero dependencies.
+*My contribution: everything — concept, classifier math, CLI, tests, docs.*
 `Python` · `ML from scratch` · `CLI design`
 
 ### 📚 Data Structures in C++ — [repo](https://github.com/realhassanabbasi/Data_structures)
 Stacks, queues, linked lists, trees, hash maps — implemented from scratch and documented for learners. **137 assertion-based checks, all passing.** A real bug (const-correctness in `QueueArray`) was caught by the suite and fixed.
+*My contribution: all implementations + the test suite — 3rd-semester coursework taken beyond the syllabus.*
 `C++` · `testing` · `documentation`
 
 ### 📖 Vocvia — *in active development*
 Field-wise vocabulary library so beginners can prompt AI effectively. The product thesis behind everything above.
+*My contribution: founder — product, code, and brand design.*
 
 ---
 
