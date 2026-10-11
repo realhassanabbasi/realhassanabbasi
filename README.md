@@ -62,10 +62,12 @@ Field-wise vocabulary library so beginners can prompt AI effectively. The produc
 
 ## 📫 Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanxabbasi)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/realhassanabbasi)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/hassanabbasi7)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/realhassanabbasi)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hassanxabbasi"><img src="assets/icons/linkedin.svg" width="34" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/realhassanabbasi"><img src="assets/icons/instagram.svg" width="34" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.behance.net/hassanabbasi7"><img src="assets/icons/behance.svg" width="34" alt="Behance" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/realhassanabbasi"><img src="assets/icons/github.svg" width="34" alt="GitHub" /></a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0D9488&height=120&section=footer" alt="footer" />
 
