@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🎓 BS Artificial Intelligence & Data Science — Air University, Islamabad<br/>
+  🎓 BS Artificial Intelligence — Air University, Islamabad<br/>
   🌱 Currently building <b>Vocvia</b> — a field-wise vocabulary library so beginners can prompt AI effectively
 </p>
 
