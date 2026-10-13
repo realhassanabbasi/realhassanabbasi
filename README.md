@@ -1,64 +1,94 @@
 <img src="assets/hero.svg" alt="Hassan Abbasi — AI Engineer" />
 
+<br/>
+
 <p align="center">
   <b>I solve one problem repeatedly: making AI actually useful</b> — through better prompting, smarter tools, and interfaces that don't get in the way.
 </p>
+
+<br/>
 
 <p align="center">
   BS Artificial Intelligence — Air University, Islamabad<br/>
   Currently building <b>Vocvia</b> — a field-wise vocabulary library so beginners can prompt AI effectively
 </p>
 
----
+<br/><br/>
 
-## Selected work
+<img src="assets/sec-work.svg" alt="Selected work" />
 
-### [PromptSmith](https://github.com/realhassanabbasi/promptsmith) — [try it live in your browser →](https://realhassanabbasi.github.io/promptsmith/)
-A CLI that scores any prompt 0–100, explains what's weak, and rewrites it into an engineered prompt. Intent classifier written **from scratch** (no ML libraries) — 94 training prompts, 8 intents, low-confidence fallback. **40 tests green**, pip-installable, zero dependencies. The scoring engine also runs live on the web — same logic, ported line-for-line.
-<br/>*My contribution: everything — concept, classifier math, CLI, tests, docs, web port.*
-<br/>`Python` · `ML from scratch` · `CLI design` · `interactive web`
+<br/>
 
-### [Data Structures in C++](https://github.com/realhassanabbasi/Data_structures)
-Stacks, queues, linked lists, trees, hash maps — implemented from scratch, documented for learners, with **code-verified Big-O tables** for every operation. **137 assertion-based checks, all passing.** The suite caught a real const-correctness bug in `QueueArray` — and I fixed it.
-<br/>*My contribution: all implementations + the test suite — 3rd-semester coursework taken beyond the syllabus.*
-<br/>`C++` · `testing` · `documentation`
+<p align="center">
+  <a href="https://github.com/realhassanabbasi/promptsmith"><b>PromptSmith</b></a> &nbsp;·&nbsp; <a href="https://realhassanabbasi.github.io/promptsmith/">try it live in your browser →</a><br/>
+  A CLI that scores any prompt 0–100, explains what's weak, and rewrites it into an engineered prompt. Intent classifier written <b>from scratch</b> (no ML libraries) — 94 training prompts, 8 intents, low-confidence fallback. <b>40 tests green</b>, pip-installable, zero dependencies. The engine also runs live on the web, ported line-for-line.<br/>
+  <i>My contribution: everything — concept, classifier math, CLI, tests, docs, web port.</i><br/>
+  <code>Python</code> <code>ML from scratch</code> <code>CLI design</code> <code>interactive web</code>
+</p>
 
-### Vocvia — *in active development*
-Field-wise vocabulary library so beginners can prompt AI effectively. The product thesis behind everything above.
-<br/>*My contribution: founder — product, code, and brand design.*
+<br/>
 
----
+<p align="center">
+  <a href="https://github.com/realhassanabbasi/Data_structures"><b>Data Structures in C++</b></a><br/>
+  Stacks, queues, linked lists, trees, hash maps — implemented from scratch, documented for learners, with <b>code-verified Big-O tables</b> for every operation. <b>137 assertion-based checks, all passing.</b> The suite caught a real const-correctness bug in <code>QueueArray</code> — and I fixed it.<br/>
+  <i>My contribution: all implementations + the test suite — 3rd-semester coursework taken beyond the syllabus.</i><br/>
+  <code>C++</code> <code>testing</code> <code>documentation</code>
+</p>
 
-## Stack
+<br/>
 
-**Languages:** Python · C++ · TypeScript · JavaScript
-**AI / ML:** PyTorch · prompt engineering · NLP · agentic AI workflows — *see [PromptSmith](https://github.com/realhassanabbasi/promptsmith), [Data Structures](https://github.com/realhassanabbasi/Data_structures)*
-**Web:** React · Next.js · Tailwind CSS · HTML/CSS · Cloudflare — *see [Cortvex Digital](https://github.com/realhassanabbasi/cortvex-digital-core), [Cortvex Web](https://github.com/realhassanabbasi/Cortvex-web-HassanAbbasi)*
-**Tools:** Git · GitHub Actions basics · ffmpeg/media tooling
+<p align="center">
+  <b>Vocvia</b> — <i>in active development</i><br/>
+  Field-wise vocabulary library so beginners can prompt AI effectively. The product thesis behind everything above.<br/>
+  <i>My contribution: founder — product, code, and brand design.</i>
+</p>
 
-*Every technology above is tied to a repository where I've actually used it — no badge without proof.*
+<br/><br/>
 
----
+<img src="assets/sec-stack.svg" alt="Stack" />
 
-## Proof of craft
+<br/>
 
-- **Testing:** every flagship ships with a passing test suite (137 checks on Data Structures, 40 on PromptSmith)
-- **Code quality:** `-Wall -Wextra` clean builds, const-correctness, no warnings tolerated
-- **Documentation:** full README on every repo — what, why, how to run, what I learned, honest limitations
-- **Honesty:** adapted work is credited, licenses kept, contributions stated plainly
+<p align="center">
+  <b>Languages:</b> Python · C++ · TypeScript · JavaScript<br/>
+  <b>AI / ML:</b> PyTorch · prompt engineering · NLP · agentic AI workflows<br/>
+  <b>Web:</b> React · Next.js · Tailwind CSS · HTML/CSS · Cloudflare<br/>
+  <b>Tools:</b> Git · GitHub Actions basics · ffmpeg/media tooling<br/><br/>
+  <i>Every technology above is tied to a repository where I've actually used it — no badge without proof.</i><br/>
+  <i>See <a href="https://github.com/realhassanabbasi/promptsmith">PromptSmith</a>, <a href="https://github.com/realhassanabbasi/Data_structures">Data Structures</a>, <a href="https://github.com/realhassanabbasi/cortvex-digital-core">Cortvex Digital</a>, <a href="https://github.com/realhassanabbasi/Cortvex-web-HassanAbbasi">Cortvex Web</a>.</i>
+</p>
 
----
+<br/><br/>
 
-## GitHub stats
+<img src="assets/sec-craft.svg" alt="Proof of craft" />
 
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=realhassanabbasi&show_icons=true&hide_border=true&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&bg_color=0a0a0a#gh-dark-mode-only)
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=realhassanabbasi&show_icons=true&hide_border=true&title_color=111111&text_color=555555&icon_color=111111&bg_color=ffffff#gh-light-mode-only)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realhassanabbasi&layout=compact&hide_border=true&title_color=ffffff&text_color=a3a3a3&bg_color=0a0a0a#gh-dark-mode-only)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realhassanabbasi&layout=compact&hide_border=true&title_color=111111&text_color=555555&bg_color=ffffff#gh-light-mode-only)
+<br/>
 
----
+<p align="center">
+  <b>Testing</b> — every flagship ships with a passing test suite (137 checks on Data Structures, 40 on PromptSmith)<br/>
+  <b>Code quality</b> — <code>-Wall -Wextra</code> clean builds, const-correctness, no warnings tolerated<br/>
+  <b>Documentation</b> — full README on every repo: what, why, how to run, what I learned, honest limitations<br/>
+  <b>Honesty</b> — adapted work is credited, licenses kept, contributions stated plainly
+</p>
 
-## Find me
+<br/><br/>
+
+<img src="assets/sec-stats.svg" alt="GitHub stats" />
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=realhassanabbasi&show_icons=true&hide_border=true&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&bg_color=0a0a0a#gh-dark-mode-only" alt="Hassan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=realhassanabbasi&show_icons=true&hide_border=true&title_color=111111&text_color=555555&icon_color=111111&bg_color=ffffff#gh-light-mode-only" alt="Hassan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realhassanabbasi&layout=compact&hide_border=true&title_color=ffffff&text_color=a3a3a3&bg_color=0a0a0a#gh-dark-mode-only" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realhassanabbasi&layout=compact&hide_border=true&title_color=111111&text_color=555555&bg_color=ffffff#gh-light-mode-only" alt="Top languages" />
+</p>
+
+<br/><br/>
+
+<img src="assets/sec-findme.svg" alt="Find me" />
+
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hassanxabbasi"><img src="assets/icons/dark/linkedin.svg#gh-dark-mode-only" width="34" alt="LinkedIn" /><img src="assets/icons/light/linkedin.svg#gh-light-mode-only" width="34" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
@@ -66,6 +96,8 @@ Field-wise vocabulary library so beginners can prompt AI effectively. The produc
   <a href="https://www.behance.net/hassanabbasi7"><img src="assets/icons/dark/behance.svg#gh-dark-mode-only" width="34" alt="Behance" /><img src="assets/icons/light/behance.svg#gh-light-mode-only" width="34" alt="Behance" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/realhassanabbasi"><img src="assets/icons/dark/github.svg#gh-dark-mode-only" width="34" alt="GitHub" /><img src="assets/icons/light/github.svg#gh-light-mode-only" width="34" alt="GitHub" /></a>
 </p>
+
+<br/>
 
 <img src="assets/divider.svg" alt="" />
 
