@@ -78,10 +78,13 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realhassanabbasi&show_icons=true&hide_border=true&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&bg_color=0a0a0a#gh-dark-mode-only" alt="Hassan's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=realhassanabbasi&show_icons=true&hide_border=true&title_color=111111&text_color=555555&icon_color=111111&bg_color=ffffff#gh-light-mode-only" alt="Hassan's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realhassanabbasi&layout=compact&hide_border=true&title_color=ffffff&text_color=a3a3a3&bg_color=0a0a0a#gh-dark-mode-only" alt="Top languages" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realhassanabbasi&layout=compact&hide_border=true&title_color=111111&text_color=555555&bg_color=ffffff#gh-light-mode-only" alt="Top languages" />
+  <img src="assets/stats-card.svg" alt="GitHub stats" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="assets/langs-card.svg" alt="Most used languages" />
 </p>
 
 <br/><br/>
@@ -91,10 +94,10 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hassanxabbasi"><img src="assets/icons/dark/linkedin.svg#gh-dark-mode-only" width="34" alt="LinkedIn" /><img src="assets/icons/light/linkedin.svg#gh-light-mode-only" width="34" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/realhassanabbasi"><img src="assets/icons/dark/instagram.svg#gh-dark-mode-only" width="34" alt="Instagram" /><img src="assets/icons/light/instagram.svg#gh-light-mode-only" width="34" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.behance.net/hassanabbasi7"><img src="assets/icons/dark/behance.svg#gh-dark-mode-only" width="34" alt="Behance" /><img src="assets/icons/light/behance.svg#gh-light-mode-only" width="34" alt="Behance" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/realhassanabbasi"><img src="assets/icons/dark/github.svg#gh-dark-mode-only" width="34" alt="GitHub" /><img src="assets/icons/light/github.svg#gh-light-mode-only" width="34" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/hassanxabbasi"><img src="assets/icons/dark/linkedin.svg#gh-dark-mode-only" width="46" alt="LinkedIn" /><img src="assets/icons/light/linkedin.svg#gh-light-mode-only" width="46" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/realhassanabbasi"><img src="assets/icons/dark/instagram.svg#gh-dark-mode-only" width="46" alt="Instagram" /><img src="assets/icons/light/instagram.svg#gh-light-mode-only" width="46" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.behance.net/hassanabbasi7"><img src="assets/icons/dark/behance.svg#gh-dark-mode-only" width="46" alt="Behance" /><img src="assets/icons/light/behance.svg#gh-light-mode-only" width="46" alt="Behance" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/realhassanabbasi"><img src="assets/icons/dark/github.svg#gh-dark-mode-only" width="46" alt="GitHub" /><img src="assets/icons/light/github.svg#gh-light-mode-only" width="46" alt="GitHub" /></a>
 </p>
 
 <br/>
