@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/realhassanabbasi/promptsmith"><b>PromptSmith</b></a> &nbsp;·&nbsp; <a href="https://realhassanabbasi.github.io/promptsmith/">try it live in your browser →</a><br/>
-  A CLI that scores any prompt 0–100, explains what's weak, and rewrites it into an engineered prompt. Intent classifier written <b>from scratch</b> (no ML libraries) — 94 training prompts, 8 intents, low-confidence fallback. <b>74 tests green</b>, pip-installable, zero dependencies. The engine also runs live on the web, ported line-for-line.<br/>
+  A CLI that scores any prompt 0–100, explains what's weak, and rewrites it into an engineered prompt. Intent classifier written <b>from scratch</b> (no ML libraries) — 94 training prompts, 8 intents, low-confidence fallback. <b>130 tests green</b>, pip-installable, zero dependencies. The engine also runs live on the web, ported line-for-line.<br/>
   <i>My contribution: everything — concept, classifier math, CLI, tests, docs, web port.</i><br/>
   <code>Python</code> <code>ML from scratch</code> <code>CLI design</code> <code>interactive web</code>
 </p>
@@ -65,7 +65,7 @@
 <br/>
 
 <p align="center">
-  <b>Testing</b> — every flagship ships with a passing test suite (137 checks on Data Structures, 74 on PromptSmith)<br/>
+  <b>Testing</b> — every flagship ships with a passing test suite (137 checks on Data Structures, 130 on PromptSmith)<br/>
   <b>Code quality</b> — <code>-Wall -Wextra</code> clean builds, const-correctness, no warnings tolerated<br/>
   <b>Documentation</b> — full README on every repo: what, why, how to run, what I learned, honest limitations<br/>
   <b>Honesty</b> — adapted work is credited, licenses kept, contributions stated plainly
