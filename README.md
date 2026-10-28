@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/realhassanabbasi/promptsmith"><b>PromptSmith</b></a> &nbsp;·&nbsp; <a href="https://realhassanabbasi.github.io/promptsmith/">try it live in your browser →</a><br/>
-  A CLI that scores any prompt 0–100, explains what's weak, and rewrites it into an engineered prompt. Intent classifier written <b>from scratch</b> (no ML libraries) — 94 training prompts, 8 intents, low-confidence fallback. <b>156 tests green</b>, pip-installable, zero dependencies. The engine also runs live on the web, ported line-for-line.<br/>
+  A CLI that scores any prompt 0–100, explains what's weak, and rewrites it into an engineered prompt. Intent classifier written <b>from scratch</b> (no ML libraries) — 94 training prompts, 8 intents, low-confidence fallback. <b>176 tests green</b>, pip-installable, zero dependencies. The engine also runs live on the web, ported line-for-line.<br/>
   <i>My contribution: everything — concept, classifier math, CLI, tests, docs, web port.</i><br/>
   <code>Python</code> <code>ML from scratch</code> <code>CLI design</code> <code>interactive web</code>
 </p>
